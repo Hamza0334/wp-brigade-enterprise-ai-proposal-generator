@@ -1,0 +1,59 @@
+# Virtual Environment
+myenv/
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment Variables
+.env
+
+# Vector Database
+vectorstore/
+
+# VS Code
+.vscode/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Build / Distribution
+build/
+dist/
+*.egg-info/
+
+# SQLite Databases
+*.db
+*.sqlite3
+
+# Temporary Files
+temp/
+tmp/
+
+# Uploaded Files
+uploads/
+
+# Generated PDFs / Docs (optional)
+generated_proposals/
+output/
+
+# Pytest
+.pytest_cache/
+
+# Coverage Reports
+.coverage
+htmlcov/

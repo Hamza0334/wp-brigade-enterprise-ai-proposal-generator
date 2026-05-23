@@ -453,7 +453,19 @@ Junior Python Developer | AI Engineer | FastAPI Developer | Streamlit Developer
 
 # 📜 License
 
-This project is developed for educational, enterprise automation, and AI solution development purposes.
+Copyright (c) 2026 WP Brigade
+
+This project was developed exclusively for WP Brigade as an enterprise AI-powered proposal generation platform.
+
+All rights reserved.
+
+This software, source code, architecture, UI/UX design, business logic, AI workflows, and related assets are proprietary and confidential property of WP Brigade.
+
+Unauthorized copying, modification, distribution, sublicensing, resale, or commercial usage of this project without written permission from WP Brigade is strictly prohibited.
+
+This system was developed for enterprise business automation, AI proposal generation, and internal organizational use.
+
+For permissions or enterprise inquiries, please contact WP Brigade.
 
 ---
 
